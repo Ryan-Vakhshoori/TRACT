@@ -6,7 +6,7 @@ function App() {
         <div>Linkedin Profile Scraper</div>
         <input></input>
         <br />
-        <input type="submit" />
+        <Link to="/output">Submit</Link>
     </div>
   );
 }
